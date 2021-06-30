@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh ?',
     btnReply: 'Gửi anh',
-    reply: 'Yêu thì yêu mà không yêu thì yêu',
+    reply: 'Khỏi ghi , yêu thì cần gì lí do ?',
     mess: 'Anh biết mà . Anh yêu em nhiều <3',
     messDesc: 'Ráng qua thời gian này nha , hết dịch anh lên sì gòn lại với em .',
     btnAccept: 'Yêu em . Hơn hôm qua !',
